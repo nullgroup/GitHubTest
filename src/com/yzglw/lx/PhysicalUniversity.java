@@ -15,7 +15,7 @@ package com.yzglw.lx;
  */
 public class PhysicalUniversity {
 
-	static public final String AUU = "澳洲国立大学";
-	static public final String TUS = "悉尼大学";
-	static public final String TUN = "新南威尔士大学";
+	static public final String AUU = "88";
+	static public final String TUS = "9078";
+	static public final String TUN = "8960";
 }
